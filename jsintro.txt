@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>jsintroassessment</title>
+</head>
+
+
+<script>
+var firstName = Kayla;
+var lastName = abc;
+var age = 16;
+
+window.alert("My full name is " + firstName + " " + lastName);
+window.alert("I am " + age + " years old");
+
+console.log("I am having so much fun in class");
+
+</script>
+</html>
